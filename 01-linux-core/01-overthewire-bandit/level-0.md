@@ -17,6 +17,6 @@ Log in to the Bandit server using SSH.
 
 
 ## Mastery Check
-- [ ] Can SSH into the server without help
-- [ ] Can explain the goal of Level 0
+- [x] Can SSH into the server without help
+- [x] Can explain the goal of Level 0
 
