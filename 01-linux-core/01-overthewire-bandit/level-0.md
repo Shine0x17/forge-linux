@@ -46,6 +46,6 @@ But if the remote server uses some other port for SSH, you should provide the po
 
 
 ## Mastery Check
-- [ ] Can SSH into the server without help
-- [ ] Can explain the goal of Level 0
+- [x] Can SSH into the server without help
+- [x] Can explain the goal of Level 0
 
