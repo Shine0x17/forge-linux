@@ -1,18 +1,21 @@
 # Bandit Level 0
 
 ## Goal
-- Log in to the Bandit server using SSH
+Log in to the Bandit server using SSH.
 
 ## What I did
-- SSH login tested
-- Environment check complete
+ - SSH login tested
+ - Environment check complete
+
 
 ## Command
-- ssh -p 2220 bandit0@bandit.labs.overthewire.org
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
 
 ## Reading Notes
+test
+
 
 ## Mastery Check
-- [ ] Can SSH into the server without help
-- [ ] Can explain the goal of Level 0
-
+ - Can SSH into the server without help
+ - Can explain the goal of Level 0
