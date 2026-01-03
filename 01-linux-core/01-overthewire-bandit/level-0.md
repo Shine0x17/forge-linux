@@ -3,6 +3,7 @@
 ## Goal
 Log in to the Bandit server using SSH.
 
+
 ## What I did
  - SSH login tested
  - Environment check complete
