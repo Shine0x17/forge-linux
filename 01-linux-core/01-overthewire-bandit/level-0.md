@@ -14,7 +14,6 @@ ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 
 ## Reading Notes
-test
 
 
 ## Mastery Check
