@@ -14,7 +14,7 @@ Log in to the Bandit server using SSH.
 
 
 ## Reading Notes (From It’s FOSS)
-```text
+```
 One of the SSH hardening practice is to change the default SSH port.  
 It reduces the number of bot attacks on the server.  
 The default SSH port number is 22. So when you use SSH, it tries to connect to the default port 22.  
@@ -22,7 +22,7 @@ But if the remote server uses some other port for SSH, you should provide the po
 
 [Change the default SSH port on Linux server]
 - Step 1: Choose a port number  
-	You can choose any port number between 0 and 65535 except the commen networking ports like 21, 80, 443 etc.  
+	You can choose any port number between 0 and 65535 except the common networking ports like 21, 80, 443 etc.  
 	Login to the server where you want to make these changes.  
  
 - Step 2: Allow the new port through the firewall  
@@ -39,7 +39,7 @@ But if the remote server uses some other port for SSH, you should provide the po
 	Now that you have made changes to config file, restart the service SSH daemon.  
 	Most distros these days use systemd and hence use this command to restart it.  
 	`systemctl restart sshd`  
-	Now when you have to connect to ther server via SSH, specify the port number.  
+	Now when you have to connect to the server via SSH, specify the port number.  
 	`ssh -p xxxx user@ip`  
 
 - Conclusion  
