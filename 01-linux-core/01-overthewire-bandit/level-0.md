@@ -14,7 +14,7 @@ Log in to the Bandit server using SSH.
 
 
 ## Reading Notes (From It’s FOSS)
-```
+```text
 One of the SSH hardening practice is to change the default SSH port.  
 It reduces the number of bot attacks on the server.  
 The default SSH port number is 22. So when you use SSH, it tries to connect to the default port 22.  
