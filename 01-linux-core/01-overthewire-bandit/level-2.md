@@ -1,4 +1,4 @@
-# Bandit Level 21
+# Bandit Level 2
 
 ## Goal
 Read the password for the next level from a file named `-`.
