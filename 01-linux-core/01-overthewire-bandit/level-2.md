@@ -22,7 +22,6 @@ Read the password for the next level from a file named `-`.
 - `cat -` reads from stdin.
 - `cat ./-` reads a file literally named -.
 - Prefixing with `./` forces interpretation as a filename, not stdin.
-- A pipe (`|`) connects stdout of one command to stdin of another.
 - SSH does not read passwords from stdin by default (security design).
 - Password automation via stdin is a concept-level topic and can be skipped for now.
 
