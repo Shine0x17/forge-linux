@@ -25,4 +25,3 @@ and use it to log in to bandit1 via SSH.
 - [x] Can find files in the home directory
 - [x] Can read a file to obtain the password
 - [x] Can log in to the next level using SSH
- 
