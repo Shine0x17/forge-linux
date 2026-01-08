@@ -29,4 +29,3 @@ Read the password for the next level from a file named `-`.
 ## Mastery Check
 - [x] Can explain why `cat -` does not read the file named `-`
 - [x] Can handle files with special names using explicit paths
- 
