@@ -1,4 +1,4 @@
-# Bandit Level 1
+# Bandit Level 0 → Level 1
 
 ## Goal
 Read the password for the next level from the `readme` file in the home directory
