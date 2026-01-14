@@ -22,12 +22,12 @@ The file must meet all of the following conditions:
 
 ## Reading Notes
 
-1) File type filtering with `-type`
+1)\ File type filtering with `-type`
 
 The `-type` option filters results based on file type.
 
 | Option | Meaning           | Description                          |
-|-------:|-------------------|--------------------------------------|
+|-------|-------------------|--------------------------------------|
 | f      | Regular file      | Normal files (text or binary)        |
 | d      | Directory         | Folder                               |
 | l      | Symbolic link     | Symlink                              |
@@ -38,12 +38,12 @@ The `-type` option filters results based on file type.
 
 In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.
 
-2) File size filtering with `-size`
+2)\ File size filtering with `-size`
 
 The `-size` option filters files by their size.
 
 | Unit | Meaning | Description                       |
-|-----:|---------|-----------------------------------|
+|-----|---------|-----------------------------------|
 | c    | Bytes   | Exact byte size (most precise)    |
 | k    | KB      | 1024 bytes                        |
 | M    | MB      | 1024 KB                           |
@@ -55,7 +55,7 @@ Examples:
 - `-size +1033c` → greater than 1033 bytes  
 - `-size -1033c` → less than 1033 bytes  
 
-3) Executable permission filtering
+3)\ Executable permission filtering
 
 | Expression     | Meaning                |
 |---------------|------------------------|
@@ -64,7 +64,7 @@ Examples:
 | -readable     | File is readable       |
 | -writable     | File is writable       |
 
-Key takeaway:  
+4)\ Key takeaway:
 The `find` command performs recursive searches by default.  
 Combining type, size, and permission filters allows precise file discovery without manual directory navigation.
 
