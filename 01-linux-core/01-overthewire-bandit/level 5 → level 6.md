@@ -21,10 +21,10 @@ The file must meet all of the following conditions:
 
 
 ## Reading Notes
-```
+
 1&#41; File type filtering with `-type`
 
-The `-type` option filters results based on file type.
+```The `-type` option filters results based on file type.```
 
 | Option | Meaning           | Description                          |
 |-------|-------------------|--------------------------------------|
@@ -36,11 +36,11 @@ The `-type` option filters results based on file type.
 | p      | Named pipe (FIFO) | FIFO / inter-process communication   |
 | s      | Socket            | Network socket file                  |
 
-In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.
+```In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.```
 
 2&#41; File size filtering with `-size`
 
-The `-size` option filters files by their size.
+```The `-size` option filters files by their size.```
 
 | Unit | Meaning | Description                       |
 |-----|---------|-----------------------------------|
@@ -65,9 +65,9 @@ Examples:
 | -writable     | File is writable       |
 
 Key takeaway:
-The `find` command performs recursive searches by default.  
-Combining type, size, and permission filters allows precise file discovery without manual directory navigation.
-```
+- `find` searches recursively by default.
+- Conditions like type, size, and permissions enable precise filtering.
+
 
 ## Mastery Check
 - [x] Understands that `find` searches subdirectories recursively by default
