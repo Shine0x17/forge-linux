@@ -46,6 +46,7 @@ But if the remote server uses some other port for SSH, you should provide the po
 	Not that it will stop SSH attacks but changing the default port does reduce the number of attacks automated bot target on the port 22.
 ```
 
+
 ## Mastery Check
 - [x] Can SSH into the server without help
 - [x] Can explain the goal of Level 0
