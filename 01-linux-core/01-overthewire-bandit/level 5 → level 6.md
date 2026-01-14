@@ -40,7 +40,7 @@ The file must meet all of the following conditions:
 
 2&#41; File size filtering with `-size`
 
-```The `-size` option filters files by their size.```
+> The `-size` option filters files by their size.
 
 | Unit | Meaning | Description                       |
 |-----|---------|-----------------------------------|
