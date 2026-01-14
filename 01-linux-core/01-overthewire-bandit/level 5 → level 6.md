@@ -6,13 +6,13 @@ The file must meet all of the following conditions:
 - Human-readable
 - Exactly 1033 bytes in size
 - Not executable
-<br><br>
+
+
 ## What I did
 - Used `find` to recursively search all subdirectories
 - Filtered files by exact size and execution permission
 - Verified the file type using `file`
 
-<!-- -->
 
 ## Command
 - `find . -type f -size 1033c ! -executable`
