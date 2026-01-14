@@ -21,7 +21,7 @@ The file must meet all of the following conditions:
 
 
 ## Reading Notes
-
+```
 1&#41; File type filtering with `-type`
 
 The `-type` option filters results based on file type.
@@ -64,10 +64,10 @@ Examples:
 | -readable     | File is readable       |
 | -writable     | File is writable       |
 
-4&#41; Key takeaway:
+Key takeaway:
 The `find` command performs recursive searches by default.  
 Combining type, size, and permission filters allows precise file discovery without manual directory navigation.
-
+```
 
 ## Mastery Check
 - [x] Understands that `find` searches subdirectories recursively by default
