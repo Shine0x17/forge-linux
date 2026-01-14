@@ -37,7 +37,7 @@ The `-type` option filters results based on file type.
 | s      | Socket            | Network socket file                  |
 
 In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.
-
+  
 2&#41; File size filtering with `-size`
 
 The `-size` option filters files by their size.
@@ -54,7 +54,7 @@ Examples:
 - `-size 1033c`  → exactly 1033 bytes  
 - `-size +1033c` → greater than 1033 bytes  
 - `-size -1033c` → less than 1033 bytes  
-
+  
 3&#41; Executable permission filtering
 
 | Expression     | Meaning                |
@@ -63,7 +63,7 @@ Examples:
 | ! -executable | File is NOT executable |
 | -readable     | File is readable       |
 | -writable     | File is writable       |
-
+  
 Key takeaway:
 - `find` searches recursively by default.
 - Conditions like type, size, and permissions enable precise filtering.
