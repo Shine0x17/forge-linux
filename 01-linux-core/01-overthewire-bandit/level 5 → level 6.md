@@ -24,7 +24,7 @@ The file must meet all of the following conditions:
 
 1&#41; File type filtering with `-type`
 
-```The `-type` option filters results based on file type.```
+`The `-type` option filters results based on file type.`
 
 | Option | Meaning           | Description                          |
 |-------|-------------------|--------------------------------------|
@@ -36,11 +36,11 @@ The file must meet all of the following conditions:
 | p      | Named pipe (FIFO) | FIFO / inter-process communication   |
 | s      | Socket            | Network socket file                  |
 
-```In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.```
+`In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.`
 
 2&#41; File size filtering with `-size`
 
-> The `-size` option filters files by their size.
+`The `-size` option filters files by their size.`
 
 | Unit | Meaning | Description                       |
 |-----|---------|-----------------------------------|
