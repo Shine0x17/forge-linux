@@ -23,9 +23,4 @@ Notes summarized from the provided or referenced reading materials.
 ### Mastery Check
 A self-check to confirm understanding of the level.
 
----
 
-## Files
-- level-0.md
-- level-1.md
-- level-2.md
