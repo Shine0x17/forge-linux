@@ -21,7 +21,6 @@ Read the password for the next level from a file that:
 
 
 ## Reading Notes
-## Reading Notes
 - `find` searches files recursively starting from a given directory.
 - `-user` filters files by owner.
 - `-group` filters files by group.
