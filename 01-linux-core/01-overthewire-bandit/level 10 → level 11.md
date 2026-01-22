@@ -1,5 +1,5 @@
 # Bandit Level 10 → Level 11
-
+ 
 ## Goal
 Read the password for the next level from the file `data.txt`,
 which contains Base64 encoded data.
