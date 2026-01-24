@@ -13,7 +13,7 @@ where the password is the only line of text that occurs exactly once.
 
 
 ## Command
-`sort data.txt | uniq -u`
+- `sort data.txt | uniq -u`
 
 
 ## Reading Notes
