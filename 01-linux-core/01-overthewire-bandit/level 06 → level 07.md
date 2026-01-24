@@ -16,8 +16,8 @@ Read the password for the next level from a file that:
 
 
 ## Command
-`find . -user bandit7 -group bandit6 -size 33c 2>/dev/null`  
-`cat /var/lib/dpkg/info/bandit7.password`
+- `find . -user bandit7 -group bandit6 -size 33c 2>/dev/null`  
+- `cat /var/lib/dpkg/info/bandit7.password`
 
 
 ## Reading Notes
