@@ -14,8 +14,8 @@ which contains Base64 encoded data.
 
 
 ## Command
-- `ls`
-- `head data.txt`
+- `ls`  
+- `head data.txt`  
 - `base64 -d data.txt`
 
 
