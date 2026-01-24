@@ -10,7 +10,7 @@ Log in to the Bandit server using SSH.
 
 
 ## Command
-`ssh -p 2220 bandit0@bandit.labs.overthewire.org`
+- `ssh -p 2220 bandit0@bandit.labs.overthewire.org`
 
 
 ## Reading Notes (From It’s FOSS)
