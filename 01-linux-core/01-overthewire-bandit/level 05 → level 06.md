@@ -37,7 +37,7 @@ The `-type` option filters results based on file type.
 | s      | Socket            | Network socket file                  |
 
 In this level, `-type f` was used because the password is stored in a regular file, not in a directory or special file.
-  
+
 2&#41; File size filtering with `-size`
 
 The `-size` option filters files by their size.
