@@ -16,10 +16,10 @@ and is preceded by several `=` characters.
 
 
 ## Command
-`strings data.txt`  
-`strings data.txt | grep "="`  
-`strings data.txt | grep "==="`  
-`find . -type f -exec strings -f {} \;`
+- `strings data.txt`  
+- `strings data.txt | grep "="`  
+- `strings data.txt | grep "==="`  
+- `find . -type f -exec strings -f {} \;`
 
 
 ## Reading Notes
