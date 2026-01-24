@@ -12,7 +12,7 @@ Read the password for the next level from a file named `-`.
 
 
 ## Command
-`cat ./-`
+- `cat ./-`
 
 
 ## Reading Notes
