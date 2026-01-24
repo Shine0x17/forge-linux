@@ -13,7 +13,7 @@ and use it to log in to bandit1 via SSH.
 
 
 ## Command
-`cat readme`
+- `cat readme`
 
 
 ## Reading Notes
