@@ -10,8 +10,8 @@ Read the password for the next level from a hidden file in the `inhere` director
 
 
 ## Command
-`ls -la`  
-`cat ...Hiding-From-You`
+- `ls -la`  
+- `cat ...Hiding-From-You`
 
 
 ## Reading Notes
