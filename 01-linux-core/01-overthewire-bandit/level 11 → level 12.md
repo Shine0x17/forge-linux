@@ -1,5 +1,5 @@
 # Bandit Level 11 → Level 12
- 
+
 ## Goal
 Read the password for the next level from the file `data.txt`,
 where all lowercase (a–z) and uppercase (A–Z) letters have been rotated by 13 positions.
@@ -13,8 +13,8 @@ where all lowercase (a–z) and uppercase (A–Z) letters have been rotated by 1
 
 
 ## Command
-`cat data.txt`  
-`cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'`
+- `cat data.txt`  
+- `cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'`
 
 
 ## Reading Notes
