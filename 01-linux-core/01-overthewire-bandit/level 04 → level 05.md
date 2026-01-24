@@ -11,9 +11,9 @@ in the `inhere` directory.
 - Identified the only file marked as ASCII text
 
 
-## Commands
-`file ./*`
-`cat ./-file07`
+## Command
+- `file ./*`
+- `cat ./-file07`
 
 
 ## Reading Notes
