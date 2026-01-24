@@ -13,8 +13,8 @@ where the password is stored next to the word `millionth`.
 
 
 ## Command
-`grep "millionth" data.txt`  
-`grep "millionth" data.txt | awk '{print $2}'`
+- `grep "millionth" data.txt`  
+- `grep "millionth" data.txt | awk '{print $2}'`
 
 
 ## Reading Notes
