@@ -1,5 +1,5 @@
 # Bandit Level 10 → Level 11
- 
+
 ## Goal
 Read the password for the next level from the file `data.txt`,
 which contains Base64 encoded data.
@@ -14,9 +14,9 @@ which contains Base64 encoded data.
 
 
 ## Command
-`ls`  
-`head data.txt`  
-`base64 -d data.txt`
+- `ls`
+- `head data.txt`
+- `base64 -d data.txt`
 
 
 ## Reading Notes
