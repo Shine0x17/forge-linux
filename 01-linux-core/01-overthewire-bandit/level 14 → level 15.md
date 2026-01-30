@@ -1,1 +1,1 @@
-studying..
+studying(day2)..
