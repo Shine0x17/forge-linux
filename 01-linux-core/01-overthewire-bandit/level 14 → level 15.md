@@ -50,3 +50,4 @@ to port 30000 on localhost.
 - [x] Can use `ss -ltn` to check listening ports
 - [x] Can connect to a port using `nc`
 - [x] Understands that `nc` uses connection → send → receive workflow
+
