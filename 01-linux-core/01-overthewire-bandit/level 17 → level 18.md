@@ -47,7 +47,7 @@ The correct password is the only line that has been changed between them.
 | a | Add | A new line was added |
 | d | Delete | An existing line was removed |
 
-Example:
+Example:  
 `42c42`  → Line 42 was changed  
 `5a6`    → A new line was added at line 6  
 `8d7`    → Line 8 was deleted
