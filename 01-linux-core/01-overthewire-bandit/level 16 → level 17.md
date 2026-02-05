@@ -15,7 +15,7 @@ to the correct SSL/TLS-enabled port between 31000 and 32000 on localhost.
 - Logged in to bandit17 using SSH key authentication
 
 
-## Commands
+## Command
 - `nmap -p 31000-32000 localhost`
 - `openssl s_client -connect localhost:PORT -quiet`
 - `cat > bandit17.key`
