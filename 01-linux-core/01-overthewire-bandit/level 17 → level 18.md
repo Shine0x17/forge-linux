@@ -51,7 +51,7 @@ Example:
 `42c42`  → Line 42 was changed  
 `5a6`    → A new line was added at line 6  
 `8d7`    → Line 8 was deleted
-
+ 
 
 ## Mastery Check
 - [x] Can compare files using diff
